@@ -28,7 +28,6 @@ driver.quit();
 }
 
 
-
 @Test
 public void TestFireFox1(){
 	
@@ -38,7 +37,7 @@ public void TestFireFox1(){
 	System.out.println("Welcome test Ng4");
 	System.out.println("Welcome test Ng5");
 	System.out.println("Welcome test Ng6");
-
+System.out.println("Added my name");
 /*WebDriver driver=new FirefoxDriver();
 
 driver.manage().window().maximize();
