@@ -15,7 +15,10 @@ public void TestFireFox(){
 	System.out.println("Welcome test Ng12");
 
 /*WebDriver driver=new FirefoxDriver();
-
+     
+     
+     
+     
 driver.manage().window().maximize();
 
 driver.get("http://www.facebook.com");
